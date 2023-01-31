@@ -1,0 +1,5 @@
+The Great Gatsby,F. Scott Fitzgerald,Literary Fiction|Drama
+Pride and Prejudice,Jane Austen,Literary Fiction|Romance
+To Kill a Mockingbird,Harper Lee,Literary Fiction|Drama
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction|Comedy
+Dune,Frank Herbert,Science Fiction|Adventure
